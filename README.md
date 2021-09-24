@@ -5,5 +5,8 @@ Contains code for the app created from following the tutorials and completing th
 
 <br>
 
-## Mi-Card Application
-This application acts as a business card, displaying the contact details of the holder.
+# Mi-Card Application
+This application acts as a business card, displaying the contact details of the holder. On the left is an implementation with a Quokka on a background of leaves.
+The images were taken from Unsplash:
+- Background of leaves by Rodion Kutsaev published on September 5, 2016
+- Quokka in wildlife park, Sydney, Australia by Laura Barry published on August 4, 2020
